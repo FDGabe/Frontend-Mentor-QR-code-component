@@ -1,0 +1,44 @@
+body {
+  background-color: blue;
+  background-color: hsl(212, 45%, 89%);
+  padding-top: 15%;
+  font-family: 'Outfit', sans-serif;
+}
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.wrapper {
+  min-width: 600px;
+}
+.window {
+  border-radius: 10px;
+  background-color: white;
+  background-color: hsl(0, 0%, 100%);
+  width: 10%;
+  margin: auto;
+  padding: 10px 10px 30px 10px;
+}
+.text1 {
+  font-weight: 700;
+  text-align: center;
+  color: black;
+  color: hsl(218, 44%, 22%);
+}
+.text2 {
+  font-weight: 400;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  font-size: 0.75em;
+  color: black;
+  color: hsl(220, 15%, 55%);
+}
+.attribution {
+  position: relative;
+  width: 500px;
+  left: 50%;
+  bottom: 3%;
+  margin-left: -250px;
+}
